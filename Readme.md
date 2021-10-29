@@ -1,1 +1,2 @@
-Projeto para testar o Git
+###Projeto para testar o Git
+*Legal
